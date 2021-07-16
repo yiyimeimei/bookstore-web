@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../bbb/bookstore/bookstore.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../bookstore.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/reins/bookstore/repository/UserAuthRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/../../../webeg/bookstore-all/bookstore-all/bookstore.sql" dialect="MySQL" />
+  </component>
+</project>

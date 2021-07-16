@@ -1,0 +1,39 @@
+/*body
+{
+    background-image:url("image/loginback.jpg");
+}
+img
+{
+    opacity: 0.5;
+}*/
+.myInput {
+    margin: 0 auto;
+    width: 320px;
+    height: 60px;
+}
+
+.myRemember {
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+}
+
+.mySubmit {
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+}
+
+.something-semantic {
+    display: table;
+    width: 100%;
+    padding: 20px;
+    height: 570px;
+    /*background: #ececec;*/
+}
+
+.something-else-semantic {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}

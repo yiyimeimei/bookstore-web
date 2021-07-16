@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e197eeba-d44c-4e0d-8bac-baa876e542f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bookstore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/LoginRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/Router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/background/loginback.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/background/show2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/background/show3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/background/show4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/11-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/13-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/14-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/15-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/4-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/4-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/5-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/5-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/6-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/6-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/7-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/8-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/8-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/9-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/book/9-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/carousel/book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/carousel/book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/carousel/book3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/carousel/book4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/logo-name.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/assets/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/Address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/Book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/BookCarousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/BookDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/CartList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/DisplayCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/HeaderInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/OrderTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/SideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/SingleOrderTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/StepLine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/TimeLine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/components/UserAvatar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bookDetail-mine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bookDetail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/homePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/css/loginPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/services/bookService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/services/cartService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/services/orderService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/utils/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/view/BookView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/view/CartView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/view/HomeView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/view/LoginView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/view/OrderView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/.idea/src/view/SingleOrderView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/src/adminComponents/AdminBookList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/src/adminComponents/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/src/adminComponents/SideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/src/components/SingleOrderTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/src/view/AdminView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/src/view/SingleOrderView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/BookstoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/controller/OrderInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/dao/CartDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/dao/FileDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/dao/OrderInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/daoimpl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/daoimpl/CartDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/daoimpl/FileDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/daoimpl/OrderInfoDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/daoimpl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/entity/OrderInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/entity/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/entity/UserAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/interceptor/InterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/interceptor/SessionValidateInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/repository/OrderInfoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/repository/OrderItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/repository/UserAuthRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/service/OrderInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/serviceimpl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/serviceimpl/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/serviceimpl/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/serviceimpl/OrderInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/serviceimpl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/msgutils/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/msgutils/MessageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/msgutils/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/msgutils/MsgCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/msgutils/MsgUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/processor/CsvFileProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/processor/FileProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reins/bookstore/utils/sessionutils/SessionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/reins/bookstore/BookstoreApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="陆伊敏" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TBZLaBAtKHpVhOq0WwsOybwhIp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookstore.sql" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46043167" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BookstoreApplication">
+    <configuration name="bookstore [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="bookstore [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="BookstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookstore_backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reins.bookstore.BookstoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.bookstore [clean]" />
+      <item itemvalue="Maven.bookstore [install]" />
+      <item itemvalue="Spring Boot.BookstoreApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.bookstore [install]" />
+        <item itemvalue="Maven.bookstore [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86187\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e197eeba-d44c-4e0d-8bac-baa876e542f3" name="Default Changelist" comment="" />
+      <created>1572935393326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572935393326</updated>
+      <workItem from="1572935402100" duration="1136000" />
+      <workItem from="1572936564269" duration="51449000" />
+      <workItem from="1573563602091" duration="23771000" />
+      <workItem from="1574054054109" duration="13487000" />
+      <workItem from="1574149241807" duration="875000" />
+      <workItem from="1574150633662" duration="16953000" />
+      <workItem from="1574674355276" duration="865000" />
+      <workItem from="1574841696443" duration="1480000" />
+      <workItem from="1575457682764" duration="1912000" />
+      <workItem from="1575469621699" duration="3813000" />
+      <workItem from="1576731215066" duration="210000" />
+      <workItem from="1581989290190" duration="252000" />
+      <workItem from="1581989551653" duration="191000" />
+      <workItem from="1581989888863" duration="8102000" />
+      <workItem from="1582156877751" duration="408000" />
+      <workItem from="1582157289034" duration="4540000" />
+      <workItem from="1582162865601" duration="14000" />
+      <workItem from="1582466211522" duration="595000" />
+      <workItem from="1582466814485" duration="2474000" />
+      <workItem from="1582502085563" duration="1728000" />
+      <workItem from="1582548362354" duration="50000" />
+      <workItem from="1583453714937" duration="501000" />
+      <workItem from="1583461428703" duration="258000" />
+      <workItem from="1583464578919" duration="263000" />
+      <workItem from="1583478101999" duration="439000" />
+      <workItem from="1583486419624" duration="3000" />
+      <workItem from="1583486429125" duration="399000" />
+      <workItem from="1621080187330" duration="23079000" />
+      <workItem from="1621123749287" duration="1839000" />
+      <workItem from="1621125616293" duration="262000" />
+      <workItem from="1621125892591" duration="130000" />
+      <workItem from="1621126046853" duration="23000" />
+      <workItem from="1621126187796" duration="41000" />
+      <workItem from="1621126303598" duration="11457000" />
+      <workItem from="1621426891483" duration="141000" />
+      <workItem from="1621771051141" duration="1206000" />
+      <workItem from="1622266880855" duration="6832000" />
+      <workItem from="1622373363408" duration="7277000" />
+      <workItem from="1622560412748" duration="19000" />
+      <workItem from="1623423503811" duration="2594000" />
+      <workItem from="1623465023443" duration="58746000" />
+      <workItem from="1624535993439" duration="81000" />
+      <workItem from="1625462299712" duration="597000" />
+      <workItem from="1625663049564" duration="3004000" />
+      <workItem from="1625725778971" duration="604000" />
+      <workItem from="1625754364875" duration="5219000" />
+      <workItem from="1625811454667" duration="6753000" />
+      <workItem from="1625916553701" duration="15150000" />
+      <workItem from="1625973166490" duration="29685000" />
+      <workItem from="1626050035764" duration="15895000" />
+      <workItem from="1626076413730" duration="572000" />
+      <workItem from="1626079233766" duration="1462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="备份1，添加了admin入口" />
+    <option name="LAST_COMMIT_MESSAGE" value="备份1，添加了admin入口" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLIntegrityConstraintViolationException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
